@@ -11,6 +11,7 @@
         buildInputs = with pkgs; [
           lexical
           elixir_1_19
+          gigalixir
         ];
       };
     }
